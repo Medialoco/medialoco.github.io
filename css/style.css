@@ -41,8 +41,8 @@ nav a:hover {
   text-align: center;
 }
 
-img.hero {
-  max-width: 50%;
+img.index {
+  max-width: 25%;
   height: auto;
   border-radius: 10px;
   margin-top: 1rem;
